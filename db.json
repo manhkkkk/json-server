@@ -271,6 +271,13 @@
        "id": 13
      },
      {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$tzDyNWsrzmG23qxFPGqHTOJBxqO0ZA7XQSUmMOPYBDIck4QF5JMsa",
+      "username": "123123",
+      "role": 1,
+      "id": 13
+    },
+     {
        "email": "ad@gmail.com",
        "password": "$2a$10$qJtFMdcdqOJOcDjCEd/jAeh4DsCfKOz115yhSflSsKADBZeoXNw4u",
        "username": "phan duc manh",
