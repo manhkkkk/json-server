@@ -1,0 +1,31 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "y",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "json": "^11.0.0",
+    "morgan": "^1.10.0",
+    "server": "^1.0.37",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  },
+  "devDependencies": {
+  }
+}
