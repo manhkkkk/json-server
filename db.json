@@ -265,7 +265,7 @@
    "users": [
      {
        "email": "admin@gmail.com",
-       "password": "$2a$10$tzDyNWsrzmG23qxFPGqHTOJBxqO0ZA7XQSUmMOPYBDIck4QF5JMsa",
+       "password": "123123",
        "username": "123123",
        "role": 1,
        "id": 13
@@ -278,16 +278,8 @@
       "id": 13
     },
      {
-       "email": "ad@gmail.com",
-       "password": "$2a$10$qJtFMdcdqOJOcDjCEd/jAeh4DsCfKOz115yhSflSsKADBZeoXNw4u",
-       "username": "phan duc manh",
-       "role": 0,
-       "id": 14,
-       "phone": "3213123213"
-     },
-     {
        "email": "user@gmail.com",
-       "password": "$2a$10$6ZvMIXuh6dn4iX6n/mlBne5FUKTIm7GjpgjaECiwk4W/gX6lnN.LS",
+       "password": "123123",
        "username": "123123",
        "role": 0,
        "id": 15
@@ -298,20 +290,6 @@
        "username": "123123123",
        "phone": "4192480124",
        "id": 16
-     },
-     {
-       "email": "adsasd@gmail.com",
-       "password": "$2a$10$bYwBLwSACBAdHgikMBA2Nu31dMc4y9ZTs0tWuh7AZgcFVvbYagcR2",
-       "username": "pktopad",
-       "role": 0,
-       "id": 17
-     },
-     {
-       "email": "ewrewr@gmail.com",
-       "password": "$2a$10$wYh.Cm0mOiEx9sozFEEO/.yLpVpmYJTq3gbHL8dy7XOX8Nzev3BwG",
-       "username": "adasda",
-       "role": 0,
-       "id": 18
      }
    ],
    "sories": [
