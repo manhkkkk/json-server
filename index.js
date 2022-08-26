@@ -9,7 +9,6 @@ server.use(middlewares);
 server.use(jsonServer.rewriter({
   '/api/*': '/$1',
 }))
-server.use(cors());
 
 server.use(router);
 server.listen(PORT, () => {
